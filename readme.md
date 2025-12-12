@@ -1,4 +1,3 @@
-```markdown
 # Dynamatic Bundles
 
 Dynamatic Bundles is a Shopify app designed to boost your Average Order Value (AOV) by offering smart, customizable bundle experiences directly on your storefront. Instead of selling single items, you can encourage customers to buy more by combining related products, offering strategic discounts, or giving shoppers the freedom to build their own perfect kits.
@@ -834,4 +833,3 @@ When contacting support, include:
 | 1.0     | YYYY-MM-DD | Initial GitHub README documentation|
 
 For app feature changes and release notes, see the app’s changelog (link if available).
-```
