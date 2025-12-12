@@ -88,6 +88,7 @@ A more complete glossary is included near the end of this document.
 ---
 
 ## Bundle Types Overview
+![...](/Four-types-of-bundle.png)
 
 Dynamatic offers four flexible bundle types to support different sales strategies and design needs.
 
@@ -115,14 +116,16 @@ Dynamatic offers four flexible bundle types to support different sales strategie
 | Bundle Builder Lite | Merchants needing a quick mix-and-match solution without complexity  | No                           | Small stores or testing simple bundle concepts       |
 
 IMAGE PLACEMENT MARKER #1  
-[Insert: 4-panel comparison image showing storefront view of each bundle type]  
 Caption: “Visual comparison of all four bundle types as they appear to customers”
+[Insert: 4-panel comparison image showing storefront view of each bundle type] 
+
 
 ---
 
 ## How to Set Up Dynamatic Bundles
 
 Quick Links: [Create Bundle](#1-create-your-bundle) | [Enable Script](#2-enable-the-dynamatic-bundles-script) | [Publish](#3-publish-your-bundle)
+
 
 Follow this step-by-step guide to configure, enable, and publish bundles on your storefront.
 
@@ -194,15 +197,14 @@ Estimated setup time: 15–25 minutes (depending on complexity)
 Quick Links: [Create Bundle](#step-1-create-a-new-bundle) | [Add Products](#step-3-add--organize-products) | [Set Pricing](#step-4-set-discounts--pricing) | [Publish](#step-6-save--publish)
 
 ### Step 1: Create a New Bundle
-
 1. Navigate to **Shopify Admin → Apps → Dynamatic → Tools → Bundles**.
 2. Click **Create bundle**.
 3. Select **Bundle Builder**.
 4. Enter an internal name and click **Create**.
 
-IMAGE PLACEMENT MARKER #2  
 [Insert: GIF showing complete flow from Shopify Admin → Apps → Dynamatic → Tools → Bundles → Create bundle → Select Bundle Builder → Enter name → Create]  
-Caption: “Creating a new Bundle Builder in Dynamatic”
+“Creating a new Bundle Builder in Dynamatic”
+![...](/create-bundle-builder.png)
 
 ---
 
@@ -215,9 +217,9 @@ Decide how the bundle will be presented to customers.
 | Full Page  | Recommended for large bundles. Generates a dedicated page.   | After saving, click **View page** in your bundle list. Link this URL directly in navigation, email, or ads.                                          |
 | Section    | Best for embedding on existing pages (Homepage, Product).    | Copy the **Bundle ID** from the app. In Theme Editor: **Add Block → Dynamatics Bundle Kit → Select “Section Bundle” → Paste ID** and Save.           |
 
-IMAGE PLACEMENT MARKER #3  
-[Insert: Comparison image showing Full Page layout vs. Section layout]  
-Caption: “Left: Full Page creates a dedicated landing page | Right: Section embeds into existing pages”
+IMAGE PLACEMENT
+[Insert: Comparison image showing Full Page layout vs. Section layout] 
+![...](/Full-vs-slelect.png)
 
 IMAGE PLACEMENT MARKER #4  
 [Insert: GIF demonstrating Section bundle embedding process in Theme Editor]  
@@ -237,6 +239,7 @@ You can populate products from:
 
 IMAGE PLACEMENT MARKER #5  
 [Insert: Screenshot of "Add Products" modal with all three source options visible]  
+![...](/Add-products.png)
 Caption: “Three ways to add products: Individual, Collections, or Product Feeds”
 
 #### Organize with Categories
@@ -279,6 +282,7 @@ Define how prices change as customers build their bundle.
 IMAGE PLACEMENT MARKER #8  
 [Insert: Diagram comparing Fixed discount (flat line) vs. Tiered discount (stepped progression)]  
 Caption: “Fixed Discount applies the same savings regardless of quantity. Tiered Discount increases savings as customers add more items.”
+![...](/image-compare-split.png)
 
 #### 2. Choose Discount Method
 
@@ -309,6 +313,7 @@ For the final tier success message (default: `Congratulations! You got {{reward}
 IMAGE PLACEMENT MARKER #10  
 [Insert: Screenshot highlighting the {{reward}} placeholder in success message field]  
 Caption: “Keep the {{reward}} placeholder—it automatically displays your discount value”
+![...](/displays-your-discount-value.png)
 
 ---
 
@@ -415,6 +420,7 @@ Decide how the bundle exists in Shopify:
 IMAGE PLACEMENT MARKER #15  
 [Insert: Screenshot of Product Configuration options (Create Product / Link to Existing / No Product)]  
 Caption: “Choose how your Prebuilt Bundle exists in Shopify”
+![...](/Product-Configuration-option.png)
 
 ### Visual Settings
 
