@@ -5,7 +5,7 @@ Dynamatic Bundles is a Shopify app designed to boost your Average Order Value (A
 Whether you want to sell a fixed set of items or a “build-your-own-box” experience, Dynamatic provides the flexibility to create the perfect offer.
 
 <!-- IMAGE: Dashboard overview showing the Bundles tool interface in the Dynamatic app -->
-
+![...](Dashboard-overview.png)
 ## Where It Works
 
 Dynamatic Bundles affects what customers see on:
