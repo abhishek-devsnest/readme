@@ -518,54 +518,6 @@ Caption: “Bundle Builder Lite offers a streamlined interface with fewer settin
 
 ---
 
-## Best Practices & Helpful Tips
-
-To maximize results:
-
-- Always preview bundles on your actual theme before publishing.
-- Use clear, concise product titles and strong images.
-- Offer at least a small discount to increase bundle adoption.
-- Place bundles on high-traffic pages:
-  - Best-selling product pages
-  - Homepage features
-  - Dedicated campaign landing pages
-
----
-
-## Theme Compatibility
-
-### Supported Themes
-
-Dynamatic Bundles is compatible with all Shopify Online Store 2.0 themes, including (but not limited to):
-
-- Dawn and Dawn-based themes
-- Other 2.0 themes that support App Blocks and App Embeds
-
-### Legacy Theme Users (Shopify 1.0)
-
-If your theme does not support App Blocks or App Embeds:
-
-1. Contact support for manual integration options.
-2. Consider upgrading to a Shopify 2.0 theme for the best experience.
-
-### Known Theme-Specific Considerations
-
-| Theme    | Notes                                                     |
-|----------|-----------------------------------------------------------|
-| Dawn     | Full compatibility                                       |
-| Impulse  | May require custom CSS for perfect alignment              |
-| Prestige | Section placement and spacing may vary                    |
-
-### Custom Themes
-
-For custom-built themes, ensure:
-
-- The theme supports App Blocks and App Embeds.
-- Section schema is valid.
-- Custom JavaScript does not override or interfere with cart behavior.
-
----
-
 ## Inventory Considerations
 
 Correct inventory behavior depends on bundle type and configuration.
@@ -609,44 +561,12 @@ If your app includes an analytics area (for example, **Dynamatic → Bundles →
 - Conversion rate by bundle type
 - Top-performing bundles
 
-### Key Metrics to Monitor
-
-| Metric            | What It Tells You                                | Typical Healthy Range |
-|-------------------|--------------------------------------------------|------------------------|
-| Bundle Take Rate  | % of visitors who purchase bundles               | 5–15%                 |
-| AOV Lift          | Increase in order value driven by bundles        | 15–40%                |
-| Bundle Conversion | % of bundle views that result in a purchase      | 3–8%                  |
-
 ### Integrating with Shopify Analytics
 
 Bundle sales appear in Shopify Analytics:
 
 - **Sales by Product** – For Prebuilt bundles created as products.
 - **Sales by Discount** – If you use discount-based bundles.
-
----
-
-## Mobile Experience
-
-All bundle types are mobile-responsive by default.
-
-IMAGE PLACEMENT MARKER #24  
-[Insert: Side-by-side screenshots showing desktop vs. mobile bundle display]  
-Caption: “Bundles adjust layout automatically for smaller screens”
-
-### Automatic Responsiveness
-
-- Grid layouts adapt from 4-column to 2-column to 1-column.
-- Buttons and inputs are touch-friendly.
-- Carousels support swipe gestures (where enabled).
-
-### Mobile-Specific Tips
-
-- Test on real devices, not just browser simulators.
-- Keep titles and descriptions short to avoid wrapping.
-- Limit product counts or categories where possible.
-- Ensure tap targets are at least 44×44 px for usability.
-
 ---
 
 ## Troubleshooting Guide
@@ -667,6 +587,7 @@ Caption: “Bundles adjust layout automatically for smaller screens”
 IMAGE PLACEMENT MARKER #21  
 [Insert: Screenshot showing App Embed toggle in OFF position with visual indicator]  
 Caption: “If your bundle isn't appearing, check that this toggle is ON”
+![...](/app-embeded.png)
 
 IMAGE PLACEMENT MARKER #22  
 [Insert: Flowchart diagram for troubleshooting "Bundle Not Appearing"]  
@@ -744,24 +665,6 @@ A: Prebuilt bundles created as real products usually work with POS. Other bundle
 
 ---
 
-## Extended Glossary
-
-| Term               | Definition                                                                 |
-|--------------------|----------------------------------------------------------------------------|
-| AOV                | Average Order Value                                                        |
-| App Embed          | Shopify feature allowing apps to inject code into the theme               |
-| BAP                | “Bundle as Product” cart behavior                                         |
-| Cart Transform     | Option grouping bundle items under a single cart line                     |
-| Multi BAP          | Option displaying each bundle item as a separate cart line                |
-| Product Feed       | Dynamic product list based on filters/rules (collection, tags, price, etc.)|
-| Section            | A configurable block in Shopify themes                                   |
-| Tiered Discount    | Discount structure where savings increase at certain quantity thresholds |
-| Trigger Product    | Product whose page loads an Add-ons Bundle widget                        |
-| Full Page Bundle   | Bundle with its own dedicated landing page URL                           |
-| Section Bundle     | Bundle embedded inside an existing page via Theme Editor                 |
-
----
-
 ## Known Limitations
 
 > Adjust the concrete limits below to match your actual app constraints.
@@ -775,9 +678,6 @@ A: Prebuilt bundles created as real products usually work with POS. Other bundle
 | B2B pricing               | Uses Shopify’s customer-specific pricing when available            |
 
 ---
-
-## SEO for Bundle Pages
-
 ### Full Page Bundles
 
 - Customize the page title and meta description in bundle settings if supported.
@@ -812,9 +712,8 @@ A: Prebuilt bundles created as real products usually work with POS. Other bundle
 
 ### Self-Service Resources
 
-- Video tutorials: *(link if available)*
-- Knowledge base: *(link if available)*
-- Community forum: *(link if available)*
+- Video tutorials: *(আমাদের নাই )*
+- Community forum: *(আছে কিনা দেখতে হবে)*
 
 ### Contact Support
 
